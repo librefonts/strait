@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Strait-Regular.otf.GlyphOrder.ttx"/>
+  <head src="Strait-Regular.otf._h_e_a_d.ttx"/>
+  <hhea src="Strait-Regular.otf._h_h_e_a.ttx"/>
+  <maxp src="Strait-Regular.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Strait-Regular.otf.O_S_2f_2.ttx"/>
+  <name src="Strait-Regular.otf._n_a_m_e.ttx"/>
+  <cmap src="Strait-Regular.otf._c_m_a_p.ttx"/>
+  <post src="Strait-Regular.otf._p_o_s_t.ttx"/>
+  <CFF src="Strait-Regular.otf.C_F_F_.ttx"/>
+  <GPOS src="Strait-Regular.otf.G_P_O_S_.ttx"/>
+  <hmtx src="Strait-Regular.otf._h_m_t_x.ttx"/>
+  <kern src="Strait-Regular.otf._k_e_r_n.ttx"/>
+</ttFont>
