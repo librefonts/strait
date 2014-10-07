@@ -1,0 +1,33 @@
+{
+  "name": "Strait",
+  "designer": "Eduardo Tunni",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 16395,
+  "fonts": [
+    {
+      "name": "Strait",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Strait-Regular-TTF.ttf",
+      "postScriptName": "Strait-Regular",
+      "fullName": "Strait",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Strait'"
+    },
+    {
+      "name": "Strait",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Strait-Regular.ttf",
+      "postScriptName": "Strait-Regular",
+      "fullName": "Strait",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Strait'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-26"
+}
